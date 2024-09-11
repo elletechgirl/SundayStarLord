@@ -35,6 +35,9 @@ public class DataTypes {
 		
 		//this line to validate git PR
 		System.out.println("Git Pull Request");
+		
+		//this line is from review class
+		System.out.println("Git Pull Request review class");
 
 	}
 
